@@ -174,6 +174,7 @@ const defaultData: PortfolioData = {
     { name: "Photoshop", level: 90, category: "Design" },
     { name: "Illustrator", level: 85, category: "Design" },
     { name: "Premiere Pro", level: 88, category: "Video" },
+    { name: "After Effect", level: 88, category: "Video" },
     { name: "MikroTik", level: 80, category: "Network" },
     { name: "CCTV Systems", level: 85, category: "Security" },
     { name: "Git", level: 85, category: "Tools" }
