@@ -243,9 +243,9 @@ export default function Portfolio() {
                 <a href="#projects" className="text-slate-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Projects</a>
                 <a href="#skills" className="text-slate-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Skills</a>
                 <a href="#contact" className="text-slate-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors">Contact</a>
-                <Link href="/cms" className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm font-medium transition-colors">
+{/*                 <Link href="/cms" className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm font-medium transition-colors">
                   CMS Dashboard
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -270,9 +270,9 @@ export default function Portfolio() {
               <a href="#projects" className="text-slate-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Projects</a>
               <a href="#skills" className="text-slate-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Skills</a>
               <a href="#contact" className="text-slate-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Contact</a>
-              <Link href="/cms" className="bg-blue-600 hover:bg-blue-700 text-white block px-3 py-2 rounded-md text-base font-medium">
+{/*               <Link href="/cms" className="bg-blue-600 hover:bg-blue-700 text-white block px-3 py-2 rounded-md text-base font-medium">
                 CMS Dashboard
-              </Link>
+              </Link> */}
             </div>
           </div>
         )}
