@@ -307,10 +307,12 @@ export default function Portfolio() {
               </Badge>
             </div>
             <div className="flex flex-wrap justify-center gap-4">
-              <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
-                <Mail className="w-4 h-4 mr-2" />
-                Get In Touch
-              </Button>
+              <a href="mailto:bdaini81@gmail.com">
+                <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
+                  <Mail className="w-4 h-4 mr-2" />
+                  Get In Touch
+                </Button>
+              </a>
               <a 
               href="https://drive.google.com/file/d/1NFA2ukNnx8GA1kT284bLGLi12wUz3JKx/view?usp=sharing" 
               target="_blank" 
