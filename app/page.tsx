@@ -179,11 +179,11 @@ const defaultData: PortfolioData = {
     { name: "Git", level: 85, category: "Tools" }
   ],
   contact: {
-    email: "ibrahim.runmonkun@email.com",
-    phone: "+234-XXX-XXX-XXXX",
+    email: "bdaini81@gmail.com",
+    phone: "+234-704-949-1435",
     location: "Lagos, Nigeria", 
-    linkedin: "https://linkedin.com/in/ibrahim-runmonkun",
-    github: "https://github.com/ibrahim-runmonkun"
+    linkedin: "https://www.linkedin.com/in/ibrahim-runmonkun-709302a2/",
+    github: "https://the234jack.github.io/"
   }
 };
 
@@ -573,7 +573,7 @@ export default function Portfolio() {
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-slate-950 border-t border-slate-800">
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-slate-400">
-            © 2025 Ibrahim Runmonkun. All rights reserved. | Built with Next.js & Tailwind CSS
+            © 2024 Ibrahim Runmonkun. All rights reserved. | Built with Next.js & Tailwind CSS
           </p>
         </div>
       </footer>
