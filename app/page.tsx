@@ -311,10 +311,16 @@ export default function Portfolio() {
                 <Mail className="w-4 h-4 mr-2" />
                 Get In Touch
               </Button>
+              <a 
+              href="https://drive.google.com/file/d/1NFA2ukNnx8GA1kT284bLGLi12wUz3JKx/view?usp=sharing" 
+              target="_blank" 
+              rel="noopener noreferrer"
+            >
               <Button size="lg" variant="outline" className="border-slate-600 text-slate-300 hover:bg-slate-800">
                 <Download className="w-4 h-4 mr-2" />
                 Download CV
               </Button>
+            </a>
             </div>
           </div>
         </div>
