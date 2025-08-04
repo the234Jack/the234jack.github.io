@@ -329,10 +329,14 @@ export default function Portfolio() {
           </div>
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <div className="relative w-full h-96 rounded-lg bg-gradient-to-r from-blue-600/20 to-purple-600/20 flex items-center justify-center">
-                <User className="w-24 h-24 text-slate-400" />
-              </div>
-            </div>
+  <div className="relative w-full h-96 rounded-lg overflow-hidden">
+    <img 
+      src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      alt="About Me"
+      className="w-full h-full object-cover"
+    />
+  </div>
+</div>
             <div>
               <p className="text-slate-300 text-lg leading-relaxed mb-6">
                 {data.about.description}
